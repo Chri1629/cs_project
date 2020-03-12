@@ -1,4 +1,4 @@
-# Progetto Computer Science
+# Progetto Foundation of Computer Science
 
 *Nome:* Christian
 
